@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author apuppala
- *
- */
-module PediatricSystem {
-}
